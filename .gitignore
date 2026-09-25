@@ -1,0 +1,23 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# Logs
+*.log
+
+# Publish output
+publish/
+
+# Local databases
+*.mdf
+*.ldf
+*.db
+
+# Local app settings (optional)
+appsettings.Development.json
